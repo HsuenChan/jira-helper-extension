@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* 移除預設多餘的 Vite 樣式，只保留 Tailwind 核心 */
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
